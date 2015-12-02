@@ -1,0 +1,13 @@
+CS3790
+Lab assignment 5
+The Java Semaphore half
+Readers given priority
+Zachary Lapointe
+
+To run and compile type:
+make
+
+then:
+java ReadWrite
+
+

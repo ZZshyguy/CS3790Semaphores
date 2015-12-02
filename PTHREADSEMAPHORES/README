@@ -1,0 +1,13 @@
+CS3790
+Zachary Lapointe
+
+Lab assignment 3
+Semaphores with readers prioritised
+This is the pthreads half of it.
+Ignore warnings about casting
+
+To run type:
+make
+
+then:
+./READWRITE
